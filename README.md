@@ -67,9 +67,6 @@ This repository contains my engineering study on wind farm analysis and assessme
 - Project Report
 - Engineering Calculations
 - Data Analysis
-- Figures and Graphs
-- Presentation Slides
-- Supporting Documents
 
 ## Author
 
